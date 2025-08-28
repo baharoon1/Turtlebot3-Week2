@@ -1,0 +1,12 @@
+
+Files:             rosbag2_2025_08_25-17_56_57_0.db3
+Bag size:          12.3 MiB
+Storage id:        sqlite3
+Duration:          310.836652339s
+Start:             Aug 25 2025 17:56:57.062308192 (1756119417.062308192)
+End:               Aug 25 2025 18:02:07.898960531 (1756119727.898960531)
+Messages:          13900
+Topic information: Topic: /cmd_vel | Type: geometry_msgs/msg/Twist | Count: 3350 | Serialization Format: cdr
+                   Topic: /odom | Type: nav_msgs/msg/Odometry | Count: 9017 | Serialization Format: cdr
+                   Topic: /scan | Type: sensor_msgs/msg/LaserScan | Count: 1533 | Serialization Format: cdr
+
